@@ -15,4 +15,4 @@ Open Up the python script and follow the below instructions
 5. Enter command into terminal: python yt-disliker.py 
 
 
-# You must have selenium and chromedriver installed in order to run this script. Both items must be in PATH
+### You must have selenium and chromedriver installed in order to run this script. Both items must be in PATH
