@@ -6,7 +6,9 @@ Libraries used: Selenium
 
 HOW TO USE:
 
+Open Up the python script and follow the below instructions
+
 1. Enter their channel's videos page URL in the area specified
 2. Increase/decrease the range of window scrolling depending on how many videos they have
-3. Open up the python script, enter your email and password for youtube in the specified area
+3. Enter your email and password for youtube in the specified area
 4. Enter an optional comment in the area specified if you wish to leave one under their videos
