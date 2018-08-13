@@ -6,6 +6,6 @@ Libraries used: Selenium
 
 HOW TO USE:
 
--Increase/decrease the range of window scrolling depending on how many videos they have
--Open up the python script, enter your email and password for youtube in the specified area
--Enter an optional comment in the area specified if you wish to leave one under their videos
+1. Increase/decrease the range of window scrolling depending on how many videos they have
+2. Open up the python script, enter your email and password for youtube in the specified area
+3. Enter an optional comment in the area specified if you wish to leave one under their videos
