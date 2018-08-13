@@ -12,13 +12,13 @@ links = []
 def initiate():
     driver.get("https://accounts.google.com/signin/v2/identifier?uilel=3&service=youtube&passive=true&hl=en&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26next%3D%252Fchannel%252FUCXN7UjITifV7EF1XgJdTOVQ%252Fvideos%26action_handle_signin%3Dtrue%26app%3Ddesktop&flowName=GlifWebSignIn&flowEntry=ServiceLogin")
     time.sleep(1)
-    driver.find_element_by_id("identifierId").send_keys("") # Your Youtube Login Email
+    driver.find_element_by_id("identifierId").send_keys("your_youtube_email@gmail.com") # Your Youtube Login Email
     driver.find_element_by_id("identifierId").send_keys(Keys.ENTER)
     time.sleep(1)
-    driver.find_element_by_name("password").send_keys("") # Your Youtube Login Password
+    driver.find_element_by_name("password").send_keys("your_youtube_password") # Your Youtube Login Password
     driver.find_element_by_name("password").send_keys(Keys.ENTER)
     time.sleep(1)
-    driver.get("") # the URL to their channel's videos page
+    driver.get("https://www.youtube.com/user/their_username/videos") # the URL to their channel's videos page
     for i in range(5):
         driver.execute_script("window.scrollBy(0, 2500)")
         time.sleep(1)
