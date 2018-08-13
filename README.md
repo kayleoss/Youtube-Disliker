@@ -12,3 +12,7 @@ Open Up the python script and follow the below instructions
 2. Increase/decrease the range of window scrolling depending on how many videos they have
 3. Enter your email and password for youtube in the specified area
 4. Enter an optional comment in the area specified if you wish to leave one under their videos
+5. Enter command into terminal: python yt-disliker.py 
+
+
+* You must have selenium and chromedriver installed in order to run this script
