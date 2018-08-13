@@ -18,7 +18,7 @@ def initiate():
     driver.find_element_by_name("password").send_keys("") # Your Youtube Login Password
     driver.find_element_by_name("password").send_keys(Keys.ENTER)
     time.sleep(1)
-    driver.get("https://www.youtube.com/channel/UCXN7UjITifV7EF1XgJdTOVQ/videos")
+    driver.get("") # the URL to their channel's videos page
     for i in range(5):
         driver.execute_script("window.scrollBy(0, 2500)")
         time.sleep(1)
