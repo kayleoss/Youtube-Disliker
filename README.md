@@ -1,4 +1,10 @@
 # Youtube-Disliker
+
+
+*UPDATE June 2022. This script is likely no longer working because of Google's added security features to detecting automation
+
+
+
 Dislike all of somebody's youtube videos. You can also comment something on each of their videos. This was just made for fun and not to inflict any harm on anyone :)
 
 
