@@ -1,7 +1,7 @@
 # Youtube-Disliker
 
 
-*UPDATE June 2022. This script is likely no longer working because of Google's added security features to detecting automation
+**UPDATE June 2022. This script is likely no longer working because of Google's added security features to detecting automation**
 
 
 
